@@ -1,0 +1,2 @@
+# Flask_DB_env
+Create a simple python flask application with 2 endpoints '/PostgreSQL' and '/MySQL'. The application must use SQLAlchemy  and .env file to fetch data from tables of your choice. The '/PostgreSQL' endpoint must return data from PostgreSQL database while '/MySQL' must return data from MySQL database within the single application. Upload the source code to public repository on github.com and provide us the link to the source code below.
